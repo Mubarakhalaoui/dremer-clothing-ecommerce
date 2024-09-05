@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+
+# OS generated files
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Misc
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
